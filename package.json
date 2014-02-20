@@ -1,0 +1,9 @@
+{
+  "name": "jb55-has-webgl",
+  "description": "Detects if the browser supports WebGL",
+  "version": "0.0.1",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
